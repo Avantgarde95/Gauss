@@ -17,3 +17,7 @@ Implementation of Gaussian elimination with partial pivoting, in Pthread and Ope
   where the first argument is the problem size (i.e dimension of the matrix), and the second argument is the number of threads.
 
 - This is for KAIST 2016 CS492 'Analysis of Concurrent Program'.
+
+ex. Running `gauss_XXX 3000 4` on my computer...
+
+![Screenshot](https://raw.githubusercontent.com/Avantgarde95/Gauss/master/Screenshot.png)
